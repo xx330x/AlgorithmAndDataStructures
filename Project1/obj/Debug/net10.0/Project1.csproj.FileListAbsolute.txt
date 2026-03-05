@@ -1,0 +1,4 @@
+D:\PROG\110a\Prokonich\Project1\obj\Debug\net10.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG\110a\Prokonich\Project1\obj\Debug\net10.0\Project1.AssemblyInfoInputs.cache
+D:\PROG\110a\Prokonich\Project1\obj\Debug\net10.0\Project1.AssemblyInfo.cs
+D:\PROG\110a\Prokonich\Project1\obj\Debug\net10.0\Project1.csproj.CoreCompileInputs.cache
